@@ -1,0 +1,23 @@
+{
+    "name": "death_satan/offset-string",
+    "description": "Offset String Helpers Class",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DeathSatan\\String\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DeathSatan",
+            "email": "2771717608@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "*"
+    }
+}
